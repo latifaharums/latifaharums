@@ -1,5 +1,3 @@
-# Hi there, I'am Latifah Arum S
-
 <h1 align="left">Hello <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'am Latifah Arum S!</h1>
 <p align="left" style="background:blue">
   <a href="https://www.instagram.com/latifaharums/?hl=id" target="_blank">
@@ -10,7 +8,7 @@
   </a>
 </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ridhomr&color=blueviolet" alt="Profile views" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=latifaharums&color=blueviolet" alt="Profile views" /> </p>
 <img align="right" width="300em" height="300em" src="https://github.com/birobirobiro/birobirobiro/blob/master/animation_500_kv8i962g.gif?raw=true"/>
 <h3>I am a Web Developer, I have expertise and experience in Python, Html, Css, NextJS.</h3>
 
