@@ -1,4 +1,4 @@
-<h1 align="left">Hello <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'am Latifah Arum S!</h1>
+<h1 align="left">Hello everyone <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'am Latifah Arum S!</h1>
 <p align="left" style="background:blue">
   <a href="https://www.instagram.com/latifaharums/?hl=id" target="_blank">
     <img align="center" src="https://img.shields.io/badge/-latifaharums-05122A?style=flat&logo=instagram" alt="instagram"/>
