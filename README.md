@@ -12,7 +12,7 @@
 <img align="right" width="300em" height="300em" src="https://github.com/birobirobiro/birobirobiro/blob/master/animation_500_kv8i962g.gif?raw=true"/>
 <h3>I am a Developer.</h3>
 
-- 🌱  I’m currently learning **Python, Html, Css, and Next JS**
+- 🌱  I’m currently learning **Python, Html, Css, and JavaScript**
 - 🚀  like & have an interest in the world of programming
 
 ## 🛠 &nbsp;Stack
