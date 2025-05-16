@@ -10,7 +10,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=latifaharums&color=blueviolet" alt="Profile views" /> </p>
 
-- 🌱  I’m currently learning **Python, Web Dev, Flutter and Machine Learning**
+- 🌱  I’m currently learning **Python for Machine Learning, flutter, and web dev**
 - 🚀  like & have an interest in the world of programming
 
 
