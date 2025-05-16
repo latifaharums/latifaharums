@@ -12,7 +12,7 @@
 
 - 🌱  I’m currently learning **Python, Web Dev, Flutter and Machine Learning**
 - 🚀  like & have an interest in the world of programming
-- https://latifaharums.github.io/portofolio
+
 
 ## 🛠 &nbsp;Stack
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
